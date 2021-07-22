@@ -1,0 +1,219 @@
+#title{
+    font-size: 120px;
+    color:#310147;;
+    position:relative;
+    
+    border-radius: 3rem;
+    width: 380px;
+    margin: 1rem auto;
+    font-family: Arial;
+    border-radius: 10px;
+  
+    
+    width: 50%;
+  
+    padding: 10px;
+    text-align: center;
+    
+    
+    
+    
+    
+   
+
+}
+.highScore{
+  font-size: 28px;
+   text-align: center;
+    
+    color:#310147;
+    width: 20%;
+    font-size: 30px;
+   
+    
+  
+    cursor: pointer; /* Pointer/hand icon */
+    width: 20%; /* Set a width if needed */
+    display: block; /* Make the buttons appear below each other */
+    margin: auto;
+
+    border-radius: 18px;
+    
+    padding: 20px;
+    margin-top: 20px;
+    
+    
+   
+    
+  
+  
+    
+
+    border-radius: 18px;
+    
+    padding: 20px;
+    margin-top: 20px;
+}
+.highScore .list{
+   font-size: 28px;
+   text-align: center;
+    
+    color:#310147;
+    width: 20%;
+    font-size: 30px;
+   
+    
+   
+    cursor: pointer; /* Pointer/hand icon */
+    width: 20%; /* Set a width if needed */
+    display: block; /* Make the buttons appear below each other */
+    
+
+    border-radius: 18px;
+    
+    padding: 20px;
+    margin-top: 20px;
+    
+    
+    
+   
+    
+  
+  
+    
+
+    border-radius: 18px;
+    
+    padding: 20px;
+    margin-top: 20px;
+}
+
+
+#myForm{
+  font-size: 30px;
+   
+    
+    color:#310147;
+    
+    padding: 10px 12px; /* Some padding */
+    
+    width: 22%; /* Set a width if needed */
+    display: block; /* Make the buttons appear below each other */
+    margin: auto;
+
+    border-radius: 18px;
+    
+    padding: 20px;
+    margin-top: 20px;
+}
+
+
+
+.timer, #timer {
+  
+  flex: inherit;
+  font-size: 10pc;
+  text-align:center;
+  text-size-adjust: 30%;
+  
+}
+
+
+
+/* Removes SVG styling that would hide the time label */
+
+#enterName{
+  font-size: 30px;
+   
+    border: 1px solid rgb(0, 0, 0); /* Green border */
+    color: white; /* White text */
+    padding: 10px 12px; /* Some padding */
+    cursor: pointer; /* Pointer/hand icon */
+    width: 20%; /* Set a width if needed */
+    display: block; /* Make the buttons appear below each other */
+    margin: auto;
+    flex-flow: column;
+    text-align: center;
+    border-radius: 18px;
+    background: #420061;
+    padding: 20px;
+    margin-top: 20px;
+    
+
+}
+#highScore{
+  white-space: pre;
+
+}
+#question{
+    font-size: 60px;
+    color:#310147;
+    
+    
+    border-radius: 3rem;
+    width: 380px;
+    margin: 1rem auto;
+    font-family: Arial;
+    border-radius: 10px;
+  
+    margin: auto;
+    width: 50%;
+  
+    padding: 10px;
+    text-align: center;
+    padding-bottom: 50px;
+
+
+}
+.btn-group button {
+    font-size: 30px;
+    background-color: #04AA6D; /* Green background */
+    border: 1px solid rgb(0, 0, 0); /* Green border */
+    color: white; /* White text */
+    padding: 10px 12px; /* Some padding */
+    cursor: pointer; /* Pointer/hand icon */
+    width: 20%; /* Set a width if needed */
+    display: block; /* Make the buttons appear below each other */
+    margin: auto;
+
+    border-radius: 18px;
+    background: #420061;
+    padding: 20px;
+    margin-top: 20px;
+    
+
+    
+  
+    
+   
+    }
+  
+  .btn-group button:not(:last-child) {
+    border-bottom: none; /* Prevent double borders */
+  }
+  
+  /* Add a background color on hover */
+  .btn-group button:hover {
+    background-color: #7e3e8e;
+}
+
+#score{
+    font-size:30px;
+    color: rgb(0, 0, 0);
+    
+    border-radius: 3rem;
+    width: 380px;
+    margin: 1rem auto;
+    font-family: Arial;
+    border-radius: 10px;
+  
+    margin: auto;
+    width: 50%;
+  
+    padding: 10px;
+    text-align: center;
+    padding-top: 80px;
+    
+
+
+}
